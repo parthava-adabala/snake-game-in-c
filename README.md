@@ -1,6 +1,6 @@
 # snake-game-in-c
 This program will run only on clang compiler due to the requirement of khbit() function in clang
-This game is similar to snake game in keyapad phones.
+This game is similar to snake game in keypad phones.
 This was made in c using Pointers, Files, etc..
 
 At starting it will ask to enter 0 to start the game.
@@ -13,6 +13,6 @@ The game will start and the controls are.
 
 U can exit the game by pressing "0" any time.
 
-Afte the game ends it will show the present and previous scores. You can delete these scores by entering "0" or "1" to continue.
-You can you plan again by entering "1" or "0" to exit.
+After the game ends it will show the present and previous scores. You can delete these scores by entering "0" or "1" to continue.
+You can you play again by entering "1" or "0" to exit.
 
